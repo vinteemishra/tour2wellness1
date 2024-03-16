@@ -1,0 +1,15 @@
+{
+
+  "type": "service_account",
+  "project_id": "silent-venture-405711",
+  "private_key_id": "48d01a94b44a8ebbb114ac76a6c3d4f732e342a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCixDto4vkpRDF6\nVj45GEQ4IzPY/2L8y+sw7nJ7rJjffa8kcEuOPE9jjZZb1Q9YLUyLSF3ZkBX8sxs7\nc99Mi7lfirEgPnjob5YdRds5zEKFHGKy4Diedif0xOpofxi46oRTTsManZPskUOg\nd6pbKXmV6QNKyTu+jMfHJYQBEiRUiszEIAEdpSZIOyPhmjX6AhTAZIJVPnbvwOKa\nVEVeqFV58+PEF7sIFRVMIjRiFeuFGaMIf5qwn0uxcSas+N3wheX7TWVXXTE/dIeE\nK7+sWEO5yOaMtbT3Whi2KQgqWtJ+pS+IPksZ0iIT+uFmBMNzl9E0+h3MAg1Rajcf\ni3G5xNd1AgMBAAECgf8KT3e1SmBy59yK1SUJJubtQJmpIDL0B7EzLadW4aQYaE1r\nE/eVJgfZ4iK5UMCwYdIX3Ct3OMPchp471L5LTZ+svK079XwSBHZr7exHXfCEKf8L\n19dgEAtqhBUy7YWEmAHWK2rT1rm8Tp3vE4VZEmOf98hy5IW4I6LDQ86l9qrQDlNv\nPxY1Ko/VEkdt72zMrqfFtB9AjALIk2XPoR5JVvS6v19gQk56SsDd651BRcsdf7+D\nNgFN1Dr8jaHsDyuI97mqe/PrsRfXi8Z+KBKtHadfhthc4OAWIDTf10Pj5MJm6dVo\n0k32U+tECbRyyN5iGqaTloDTGbLmX/LTlp2MmxECgYEA3+0sPD5Rdo148PtXcsLR\noAZByT9mTvOCrWGJVBIqOIgstFZkhmA0dvocWpUGaTu0L50n1VI3nT1lrkEHtYgq\nlbOahJs2ElSsVDgBC0d59t0SY54CIMTlTeZZN5DjxbVL1Xm25nuU0+Z2WNtisCMP\nqLaQ2D6aMemIy5wvwHssBKUCgYEAuhR6B5UadUej/VF7VqseLZSmBGfv+iW+JXjE\nEMNntV+c2nvjYbK5BY+hfEcovIPCmD4IpK82YAnpwRI9BDWAkcp+bH/o8kMG6eEq\nLbZifoqzKgDrXXd6jc9gfncnij31zrFwvoK4YqVr1Lvoc6SmI4dgTSio1CbtxRJb\nGy7JfpECgYEAwdvRfQIygmEt/+qIpYi19EUWdQTXLKiyTCnxuv/S34g8s49Lje4B\n3bLgEyeLGlWew83Za1u3XACIY9hWtTkCLQIFVqIMqMf3PR4TAVHK7AYt4mIr03TC\nU7OFL47XMhWnZlPuHRGGIgEWGg0sHfLsnpIXSa7AzU8xp5w61veLfyUCgYAG0Hkn\nje5KHTWEMVey9NFGGgt6XdQL9RXhiWqksoM5wSadWawaB9F+wqPHSVPUk36s1Ji8\nby4uli5ZQ7G4Vb0/mYrHrmd5d7rpFbXVtrgkqi+leiMkaRuz1cRS3Uo1Zc96okTe\ntSrLcgNg5wC8O2taIbsFGFgWbNaIQQPVGwGGAQKBgGeOHPbkPvGqs5QcvGVF45ND\ntz5qzrWZeaNKP9giyM6GCUwr3Bv33ekGpvPb2xqViuntf0P9GBP9Lemox7Thw19d\nLIJNPosO2/w68ggrEcfrCuY7J3qvqYKDz3aMZrLxAqGjUw0a2QeRnv8xJ775qNOK\n3G3b58NsyBYrk9k+mw88\n-----END PRIVATE KEY-----\n",
+  "client_email": "tour2wellnness-storage@silent-venture-405711.iam.gserviceaccount.com",
+  "client_id": "102087786079738703650",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tour2wellnness-storage%40silent-venture-405711.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+
+}
